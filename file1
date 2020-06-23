@@ -1,5 +1,5 @@
-class file
+class hello
 {
-   
+   public static void main()
  }
           {
